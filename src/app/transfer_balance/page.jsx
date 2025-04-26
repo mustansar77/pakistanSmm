@@ -1,12 +1,11 @@
 import React from 'react'
-import Home from './pages/Home'
+import Balance_Transafer from '../pages/Balance_Transafer'
 
 const page = () => {
   return (
     <>
       <div>
-
-        <Home />
+        <Balance_Transafer />
       </div>
     </>
   )

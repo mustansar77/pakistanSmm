@@ -1,13 +1,10 @@
 import React from 'react'
-import Home from './pages/Home'
+import Funds from '../pages/Funds'
 
 const page = () => {
   return (
     <>
-      <div>
-
-        <Home />
-      </div>
+      <Funds />
     </>
   )
 }

@@ -1,15 +1,14 @@
 import React from 'react'
-import Home from './pages/Home'
+import FundsHistory from '../pages/Fundshistory'
 
 const page = () => {
   return (
     <>
+
       <div>
 
-        <Home />
-      </div>
-    </>
-  )
+        <FundsHistory />
+      </div></>)
 }
 
 export default page

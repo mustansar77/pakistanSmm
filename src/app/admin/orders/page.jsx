@@ -1,13 +1,10 @@
+import AdminOrders from '@/app/components/AdminOrders'
 import React from 'react'
-import Home from './pages/Home'
 
 const page = () => {
   return (
     <>
-      <div>
-
-        <Home />
-      </div>
+      <AdminOrders />
     </>
   )
 }

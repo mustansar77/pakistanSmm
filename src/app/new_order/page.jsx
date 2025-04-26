@@ -1,12 +1,12 @@
 import React from 'react'
-import Home from './pages/Home'
+import NewOrder from '../pages/New_order'
 
 const page = () => {
   return (
     <>
-      <div>
 
-        <Home />
+      <div>
+        <NewOrder />
       </div>
     </>
   )

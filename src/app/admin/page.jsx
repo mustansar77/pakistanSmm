@@ -1,13 +1,11 @@
 import React from 'react'
-import Home from './pages/Home'
+import DashboardLayout from '../components/DashboardLayout'
 
 const page = () => {
   return (
     <>
-      <div>
 
-        <Home />
-      </div>
+      <DashboardLayout />
     </>
   )
 }
